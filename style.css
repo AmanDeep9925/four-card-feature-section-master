@@ -234,7 +234,7 @@ section {
 
     .card-container .card {
         /* margin: auto; */
-        width: 250px;
+        width: 70%;
         padding: 15px 30px;
         border-radius: 5px;
         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
